@@ -11,6 +11,7 @@ Collection was from torrent "breachcompilation" - contains 1.4 billions password
 check if you missing command 7z 
 
 chmod +x con.sh
+
 ./con.sh
 
 
