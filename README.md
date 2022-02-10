@@ -27,7 +27,9 @@ Special tnx to https://dillinger.io/ for formating this document
 Just created - would make some update
 
 ## Benchmark
+
 time: 2h30m tool: aircrack CPU: AMD Ryzen 5900HX
+
 time: 5 minute tool: hashcat GPU: 3090 RTX
 
 ## Licence
