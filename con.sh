@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES="./tesxa*.7z"
+FILES="./xa*.7z"
 
 for file in $FILES
 do
