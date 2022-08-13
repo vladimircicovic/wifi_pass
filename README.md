@@ -24,7 +24,7 @@ Complete hacker community because each day is challenge.
 Special tnx to https://dillinger.io/ for formating this document
 
 ## version 0.1
-Just created - would make some update
+Just created - wordlist will be updated
 
 ## Benchmark
 
