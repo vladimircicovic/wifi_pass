@@ -23,8 +23,9 @@ Use your skills to help people not to harm them. List would never produced to be
 Complete hacker community because each day is challenge. 
 Special tnx to https://dillinger.io/ for formating this document
 
-## version 0.1
+## version 0.2
 Just created - wordlist will be updated
+Added serbian wordlist from https://github.com/tperich/serbian-wordlists
 
 ## Benchmark
 

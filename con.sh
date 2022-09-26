@@ -7,8 +7,8 @@ do
   $(which 7z) e $file
 done
 
-cat xa{a..n} >> wifi_pass.txt
-rm xa{a..n}
+cat xa{a..s} >> wifi_pass.txt
+rm xa{a..s}
 
 echo Extraction is done
 
