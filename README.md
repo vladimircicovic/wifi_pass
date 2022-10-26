@@ -1,4 +1,4 @@
-# Wifi password list 4 cracking
+# Wifi password list for cracking
 ## _resources for ethical hacking_
 
 Collection was from torrent "breachcompilation" - contains 1.4 billions passwords but after sort|uniq|akw 'length>7' it contains 320 millions uniq passwords. List was used for last several years for password testing and some services implement for password check (yes, for stoping re-using passwords) 
