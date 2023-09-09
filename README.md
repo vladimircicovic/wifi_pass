@@ -31,9 +31,13 @@ Added serbian wordlist from https://github.com/tperich/serbian-wordlists
 
 ## Benchmark
 
-time: 2h30m tool: aircrack CPU: AMD Ryzen 5900HX
+time: 2h30m 
+tool: aircrack 
+CPU: AMD Ryzen 5900HX
 
-time: 5 minute tool: hashcat GPU: 3090 RTX
+time: 5 minute 
+tool: hashcat 
+GPU: 3090 RTX
 
 ## Licence
 GPLv3 https://www.gnu.org/licenses/gpl-3.0.en.html
