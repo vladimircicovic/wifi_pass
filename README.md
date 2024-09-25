@@ -41,3 +41,8 @@ GPU: 3090 RTX
 
 ## Licence
 GPLv3 https://www.gnu.org/licenses/gpl-3.0.en.html
+
+## Donate 
+BTC 1DrXQTeax1ZwgR5J3EGwV5vCMGAdnis8DH
+
+ETH 0x9ce97ef21dabee09374547cb31ea04e858a33d06
